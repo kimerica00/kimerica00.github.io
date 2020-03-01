@@ -108,10 +108,11 @@ analytics:
 # Site Author
 author:
   name             : "Erica Kim"
-  avatar           : "/images/stock.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi I'm Erica"
   location         : "Seoul,KR"
   email            :
+  github           : "kimerica00"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
